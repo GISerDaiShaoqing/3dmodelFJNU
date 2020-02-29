@@ -23,8 +23,6 @@ We provided the shapefile of each building in Fujian Normal University and 3D mo
 
 [Public Participant Geographical Information System of Keji Building Consturction in Fujian Normal University](http://www.arcgis.com/home/item.html?id=763aa7b8bf7e4f0985eeb19c2fa34f7a)
 
-![](http://science.gisersqdai.top/3dfjnu/3dmodelfjnu.gif)
-
 ![](http://science.gisersqdai.top/3dfjnu/fig.4.jpg)
 
 ## Citing
