@@ -19,11 +19,17 @@ The data was developed by me for my undergraduate thesis. If you have any qustio
 |E-mail|dsq1993qingge@163.com|
 
 ## Open data set
-We provided the shapefile of each building in Fujian Normal University and 3D model of Fujian Normal University. You could visit and explore the 3D model in [this url](http://www.arcgis.com/apps/CEWebViewer/viewer.html?3dWebScene=763aa7b8bf7e4f0985eeb19c2fa34f7a). The public participant GIS system could be found in [ArcGIS online](http://www.arcgis.com/home/item.html?id=763aa7b8bf7e4f0985eeb19c2fa34f7a). This work was funded by the Project-The Technological Innovation Plan of University Students, Fujian Normal University, "The Optimization Model of High Education Staff’s Refuge Space Under Earthquake Disater"(cxxl-2014137). I'm the principal investigator(PI) of this project.
+We provided the shapefile of each building in Fujian Normal University and 3D model of Fujian Normal University(.3ws is the City Engine export Scence data format). You could visit and explore the 3D model in [this url](http://www.arcgis.com/apps/CEWebViewer/viewer.html?3dWebScene=763aa7b8bf7e4f0985eeb19c2fa34f7a). The public participant GIS system could be found in [ArcGIS online](http://www.arcgis.com/home/item.html?id=763aa7b8bf7e4f0985eeb19c2fa34f7a). This work was funded by the Project-The Technological Innovation Plan of University Students, Fujian Normal University, "The Optimization Model of High Education Staff’s Refuge Space Under Earthquake Disater"(cxxl-2014137). I'm the principal investigator(PI) of this project.
 
 [Public Participant Geographical Information System of Keji Building Consturction in Fujian Normal University](http://www.arcgis.com/home/item.html?id=763aa7b8bf7e4f0985eeb19c2fa34f7a)
 
-![](http://science.gisersqdai.top/3dfjnu/fig.4.jpg)
+![](https://github.com/GISerDaiShaoqing/3dmodelFJNU/blob/master/school.jpg)
+
+Now we also provide the 3D model of different Keji Buildings with the KMZ file, you could open the 3D model in the Google Earth. 
+
+![](https://github.com/GISerDaiShaoqing/3dmodelFJNU/blob/master/k1.png)
+
+![](https://github.com/GISerDaiShaoqing/3dmodelFJNU/blob/master/k2.png)
 
 ## Citing
 If you find this data useful in your work, please consider citing:
