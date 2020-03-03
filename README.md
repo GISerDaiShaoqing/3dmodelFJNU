@@ -29,7 +29,7 @@ The shapefile of each building in Fujian Normal University.
 
 ![](https://github.com/GISerDaiShaoqing/3dmodelFJNU/blob/master/school.jpg)
 
-Now we also provide the 3D model of different Keji Buildings with the KMZ file, you could open the 3D model in the Google Earth. 
+Now we also provide the 3D model of different Keji Buildings with the KMZ file, you could exploren the 3D model in the Google Earth. 
 
 ![](https://github.com/GISerDaiShaoqing/3dmodelFJNU/blob/master/k1.png)
 
