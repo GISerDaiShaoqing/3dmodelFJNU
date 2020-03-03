@@ -23,6 +23,10 @@ We provided the shapefile of each building in Fujian Normal University and 3D mo
 
 [Public Participant Geographical Information System of Keji Building Consturction in Fujian Normal University](http://www.arcgis.com/home/item.html?id=763aa7b8bf7e4f0985eeb19c2fa34f7a)
 
+![](https://github.com/GISerDaiShaoqing/3dmodelFJNU/blob/master/PPGIS.png)
+
+The shapefile of each building in Fujian Normal University.
+
 ![](https://github.com/GISerDaiShaoqing/3dmodelFJNU/blob/master/school.jpg)
 
 Now we also provide the 3D model of different Keji Buildings with the KMZ file, you could open the 3D model in the Google Earth. 
