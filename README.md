@@ -52,7 +52,7 @@ If you find this data useful in your work, please consider citing:
    month = nov,
    year = 2020,
    publisher = {Zenodo},
-   version = {0.1},
+   version = {1.0},
    doi = {10.5281/zenodo.4277977},
    url = {https://doi.org/10.5281/zenodo.4277977}
 }
