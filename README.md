@@ -45,4 +45,15 @@ If you find this data useful in your work, please consider citing:
   year={2016},
   school={福建: 福建师范大学}
 }
+
+@dataset{shaoqing_dai_2020_4277977,
+   author = {Shaoqing Dai},
+   title = {GISerDaiShaoqing/3dmodelFJNU 1.0},
+   month = nov,
+   year = 2020,
+   publisher = {Zenodo},
+   version = {0.1},
+   doi = {10.5281/zenodo.4277977},
+   url = {https://doi.org/10.5281/zenodo.4277977}
+}
 ```
